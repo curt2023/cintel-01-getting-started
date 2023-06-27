@@ -2,7 +2,7 @@
 
 - GitHub Pages Website: [cintel-01-getting-started](https://curt2023.github.io/cintel-01-getting-started/)
 - GitHub Repository: [cintel-01-getting-started](https://github.com/curt2023/cintel-01-getting-started)
-- Author: [Denise Case](https://github.com/curt2023)
+- Author: [Curtis Rogers](https://github.com/curt2023)
 
 
 We begin with two important tools: Git and VS Code. 
