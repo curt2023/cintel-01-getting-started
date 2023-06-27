@@ -81,7 +81,7 @@ input[type=text] {
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
-  border: 2px solid #ccc;
+  border: 2px solid #f3ef17;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   outline: none;
