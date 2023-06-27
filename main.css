@@ -71,7 +71,7 @@ header {
 /* On hovering over the class = 'main' elements, switch to slightly darker gray */
 
 .main:hover {
-  background-color: #F5F5F5;
+  background-color: #6bc6e2;
 }
 
 /* Apply these styles to all html input elements of type 'text'. */
