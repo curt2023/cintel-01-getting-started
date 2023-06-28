@@ -27,7 +27,7 @@ header {
   font-family: Castellar;
   background-color: #ac0f0f;
   color: rgb(73, 176, 236);
-  font-size: 3em;
+  font-size: 5em;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
   /* Add a little shadow to the header */
 }
