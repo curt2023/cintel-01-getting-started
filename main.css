@@ -27,7 +27,7 @@ header {
   font-family: Chiller;
   background-color: #080000;
   color: rgb(252, 248, 10);
-  font-size: 2em;
+  font-size: x-large;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
   /* Add a little shadow to the header */
 }
@@ -70,7 +70,6 @@ header {
   flex: 3;
   padding: 10px;
   font-family: Chiller;
-  font-size:larger;
   text-align: center;
   transition: background-color 0.5s ease;
   /* Gradual change when the color changes */
