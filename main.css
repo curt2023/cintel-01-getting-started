@@ -47,7 +47,7 @@ header {
 .sidebar {
   flex: 1;
   padding: 10px;
-  font-family: Casteller;
+  font-family: Showcard Gothic;
   color:#f7b707;
   background-color: #000700f1;
   box-sizing: border-box;
@@ -69,7 +69,7 @@ header {
 .main {
   flex: 3;
   padding: 10px;
-  font-family: Chiller;
+  font-family: ;
   text-align: center;
   transition: background-color 0.5s ease;
   /* Gradual change when the color changes */
