@@ -58,7 +58,7 @@ header {
 }
 
 .sidebar:hover {
-  background-color: #6e37ee;
+  background-color: #9265fc;
   /* Slightly darker gray when hovering over the sidebar */
 }
 
@@ -79,7 +79,7 @@ header {
 /* On hovering over the class = 'main' elements, switch to slightly darker gray */
 
 .main:hover {
-  background-color: #6e37ee;
+  background-color: #9265fc;
 }
 
 /* Apply these styles to all html input elements of type 'text'. */
