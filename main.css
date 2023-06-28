@@ -14,7 +14,7 @@ Notice the index.html file is divided into a head and body sections.
 /* Apply these styles to all html elements in the body section. */
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: Castellar, sans-serif;
   background-color: #eed693;
 }
 
@@ -26,7 +26,7 @@ header {
   text-align: center;
   background-color: #ac0f0f;
   color: rgb(73, 176, 236);
-  font-size: 2em;
+  font-size: 3em;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
   /* Add a little shadow to the header */
 }
