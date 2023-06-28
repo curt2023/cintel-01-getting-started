@@ -27,7 +27,7 @@ header {
   font-family: Castellar;
   background-color: #ac0f0f;
   color: rgb(73, 176, 236);
-  font-size: 24em;
+  font-size: 2em;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
   /* Add a little shadow to the header */
 }
@@ -80,6 +80,7 @@ header {
 input[type=text] {
   width: 100%;
   padding: 12px 20px;
+  font-family:Chiller;
   margin: 8px 0;
   box-sizing: border-box;
   border: 2px solid #f3ef17;
