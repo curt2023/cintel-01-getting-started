@@ -68,8 +68,9 @@ header {
 
 .main {
   flex: 3;
-  padding: 30px;
+  padding: 10px;
   font-family: Chiller;
+  font-size:larger;
   text-align: center;
   transition: background-color 0.5s ease;
   /* Gradual change when the color changes */
