@@ -14,8 +14,8 @@ Notice the index.html file is divided into a head and body sections.
 /* Apply these styles to all html elements in the body section. */
 
 body {
-  font-family: Arial, sans-serif;
-  background-color: #eed693;
+  font-family: Casteller, sans-serif;
+  background-color: #f7b707;
 }
 
 
@@ -24,9 +24,9 @@ body {
 header {
   padding: 10px;
   text-align: center;
-  font-family: Castellar;
-  background-color: #ac0f0f;
-  color: rgb(73, 176, 236);
+  font-family: Chiller;
+  background-color: #080000;
+  color: rgb(252, 248, 10);
   font-size: 2em;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
   /* Add a little shadow to the header */
@@ -47,13 +47,14 @@ header {
 .sidebar {
   flex: 1;
   padding: 10px;
-  background-color: #7bf081f1;
+  background-color: #000700f1;
+  color:#f7b707
   transition: background-color 0.5s ease;
   /* Gradual change when the color changes */
 }
 
 .sidebar:hover {
-  background-color: #3e9bf1;
+  background-color: #6e37ee;
   /* Slightly darker gray when hovering over the sidebar */
 }
 
@@ -73,7 +74,7 @@ header {
 /* On hovering over the class = 'main' elements, switch to slightly darker gray */
 
 .main:hover {
-  background-color: #6bc6e2;
+  background-color: #6e37ee;
 }
 
 /* Apply these styles to all html input elements of type 'text'. */
@@ -81,7 +82,7 @@ header {
 input[type=text] {
   width: 100%;
   padding: 12px 20px;
-  font-family:Chiller;
+  font-family: Bookman Old Style;
   margin: 8px 0;
   box-sizing: border-box;
   border: 2px solid #f3ef17;
