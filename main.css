@@ -50,6 +50,7 @@ header {
   font-family: Casteller;
   color:#f7b707;
   background-color: #000700f1;
+  box-sizing: border-box;
   border:2px solid #f3ef17
   color:#f8b705
   transition: background-color 0.5s ease;
