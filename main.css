@@ -66,6 +66,7 @@ header {
   flex: 3;
   padding: 10px;
   font-family: Chiller;
+  text-align: center;
   transition: background-color 0.5s ease;
   /* Gradual change when the color changes */
 }
