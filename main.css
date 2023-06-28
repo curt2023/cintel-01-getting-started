@@ -99,5 +99,5 @@ input[type=text] {
 /* When we click on an input element, it gets the 'focus' - change the border color */
 
 input[type=text]:focus {
-  border: 2px solid #f3ef17;
+  border: 2px solid #f50b0b;
 }
