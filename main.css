@@ -69,7 +69,7 @@ header {
 .main {
   flex: 3;
   padding: 10px;
-  font-family: ;
+  font-family: Showcard Gothic;
   text-align: center;
   transition: background-color 0.5s ease;
   /* Gradual change when the color changes */
